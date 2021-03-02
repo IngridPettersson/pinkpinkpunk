@@ -29,7 +29,7 @@ const dogs = [
     },
     {
         breed: 'Shi Tzu',
-        name: 'Ralph',
+        name: 'Berra',
         description: 'Weird looking fella from Tibet',
         rating: 6.2,
         favorite: false,
@@ -43,7 +43,7 @@ const dogs = [
     },
     {
         breed: 'Yorkshireterrier',
-        name: 'Toad',
+        name: 'Mario',
         description: 'Annoying',
         rating: 4.9,
         favorite: true,
