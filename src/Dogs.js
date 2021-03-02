@@ -7,7 +7,7 @@ const dogs = [
         favorite: true,
     },
     {
-        breed: 'dachshund',
+        breed: 'Dachshund',
         name: 'Ulla',
         description: 'A depressed office worker',
         rating: 2.7,
