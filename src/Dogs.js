@@ -36,7 +36,7 @@ const dogs = [
     },
     {
         breed: 'Pomeranian',
-        name: 'Fourvel',
+        name: 'Fourvel, like Fivel but one less',
         description: 'As fuzzy as can be',
         rating: 7.0,
         favorite: false,
